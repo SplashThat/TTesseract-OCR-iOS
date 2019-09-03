@@ -1,3 +1,9 @@
+# Important Notes #
+
+The project [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) has been forked because of an important bug that was breaking the business card feature on the Host App iOS. For more details about the bug fix, read the description of this [PR](https://github.com/SplashThat/Tesseract-OCR-iOS/pull/1).
+
+On the source repo, a [pull request](https://github.com/gali8/Tesseract-OCR-iOS/pull/410) has been opened but it seems unlikely to be merged very soon. Therefore meanwhile, the project [BusinessCardScanner](https://github.com/SplashThat/BusinessCardScanner) is using this forked repo by installing the pod TTesseractOCRiOS.
+
 # Tesseract OCR iOS
 
 [![Build Status](https://travis-ci.org/gali8/Tesseract-OCR-iOS.svg?branch=master)](https://travis-ci.org/gali8/Tesseract-OCR-iOS)
